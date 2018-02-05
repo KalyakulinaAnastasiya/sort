@@ -98,6 +98,9 @@ void main()
 {
 	
 	printf("Now on GitHub! \n");
+	
+	printf("Some message \n");
+
 
 	int action = -1;
 	struct _finddata_t c_file;
