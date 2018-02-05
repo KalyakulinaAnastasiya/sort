@@ -97,6 +97,8 @@ void print(long long*file_sizes, char **file_names, int first, int last)
 void main()
 {
 	
+	printf("Now on GitHub! \n");
+
 	int action = -1;
 	struct _finddata_t c_file;
 	intptr_t hFile;

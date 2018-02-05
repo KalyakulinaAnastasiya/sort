@@ -38,3 +38,9 @@
 *.log
 
 *.idb
+
+*.sdf
+
+*.suo
+
+*.ilk
